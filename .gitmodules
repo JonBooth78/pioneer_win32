@@ -1,0 +1,6 @@
+[submodule "pioneer"]
+	path = pioneer
+	url = https://github.com/pioneerspacesim/pioneer.git
+[submodule "pioneer-thirdparty"]
+	path = pioneer-thirdparty
+	url = https://github.com/pioneerspacesim/pioneer-thirdparty.git
